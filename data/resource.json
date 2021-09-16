@@ -1,0 +1,495 @@
+[
+    {
+        "categoryName": "IT程序",
+        "categoryIcon": "fas fa-code",
+        "list": [
+            {
+                "link": "https://docschina.org",
+                "title": "印记中文",
+                "intro": "常用技术文档集合"
+            },
+            {
+                "link": "https://www.layui.com",
+                "title": "Layui",
+                "intro": "精美的前端 UI 框架"
+            },
+            {
+                "link": "https://element.eleme.cn/#/zh-CN/component/installation",
+                "title": "Element UI",
+                "intro": "网站快速成型工具 - 饿了么团队"
+            },
+            {
+                "link": "https://youzan.github.io/vant/#/zh-CN/",
+                "title": "Vant UI",
+                "intro": "轻量、可靠的移动端组件库 - 饿了么团队"
+            },
+            {
+                "link": "https://iview.github.io/",
+                "title": "iView UI",
+                "intro": "一套基于 Vue.js 的高质量 UI 组件库"
+            },
+            {
+                "link": "http://mint-ui.github.io/#!/zh-cn",
+                "title": "Mint UI",
+                "intro": "基于 Vue.js 的移动端组件库"
+            },
+            {
+                "link": "https://flutterchina.club/",
+                "title": "Flutter",
+                "intro": "极速构建漂亮的原生应用 - 谷歌的移动UI框架"
+            },
+            {
+                "link": "https://www.axios-http.cn/docs/intro",
+                "title": "Axios",
+                "intro": "基于 promise 的 http 请求库"
+            },
+            {
+                "link": "https://es6.ruanyifeng.com/",
+                "title": "ES6 入门教程",
+                "intro": "全面介绍 ECMAScript6 新引入的语法特性"
+            },
+            {
+                "link": "https://www.chartjs.org/",
+                "title": "Chart.js",
+                "intro": "为设计人员和开发人员提供简单而灵活的JavaScript图表"
+            },
+            {
+                "link": "https://echarts.apache.org/zh/index.html",
+                "title": "Echarts 图表",
+                "intro": "一个基于 JavaScript 的开源可视化图表库"
+            },
+            {
+                "link": "https://zzz.dog/",
+                "title": "Zdog 3D组件",
+                "intro": "圆形、扁平、设计师友好型画布和SVG的伪3D引擎"
+            },
+            {
+                "link": "http://javascript.ruanyifeng.com/nodejs/module.html",
+                "title": "CommenJS 规范",
+                "intro": "CommenJS 标准规范"
+            },
+            {
+                "link": "https://loading.io/",
+                "title": "svg 加载图标",
+                "intro": "一个加载中的 svg 图标库"
+            },
+            {
+                "link": "https://cdn.baomitu.com",
+                "title": "75CDN",
+                "intro": "前端静态资源库,支持 HTTP/2 的 CDN 服务"
+            },
+            {
+                "link": "https://cdn.bytedance.com/",
+                "title": "字节跳动静态资源公共",
+                "intro": "静态资源公共库，免费获取公共静态资源"
+            },
+            {
+                "link": "https://www.bootcdn.cn",
+                "title": "bootcdn",
+                "intro": "免费的开源 CDN 加速服务"
+            },
+            {
+                "link": "https://fontawesome.com/v5.15/icons?d=gallery&p=2",
+                "title": "Font Awesome",
+                "intro": "下一代最受欢迎的图标库"
+            },
+            {
+                "link": "http://www.fontawesome.com.cn/faicons/",
+                "title": "Font Awesome 中文网",
+                "intro": "中文图标库"
+            },
+            {
+                "link": "https://www.sojson.com/",
+                "title": "JSON在线解析",
+                "intro": "在线 JSON 及各种操作工具"
+            },
+            {
+                "link": "https://unbug.github.io/codelf",
+                "title": "CodeIf",
+                "intro": "给变量取英文名"
+            },
+            {
+                "link": "https://flutter.cn/",
+                "title": "Flutter 中国官网",
+                "intro": "Google 开源的 UI 工具包，支持移动、Web、桌面和嵌入式平台。"
+            },
+            {
+                "link": "https://www.json.cn/",
+                "title": "json.cn",
+                "intro": "json 在线解析"
+            },
+            {
+                "link": "https://tool.lu",
+                "title": "在线工具",
+                "intro": "在线小工具集合"
+            },
+            {
+                "link": "https://www.toolnb.com/",
+                "title": "在线工具2",
+                "intro": "在线小工具集合"
+            },
+            {
+                "link": "https://itbook.download/",
+                "title": "itbook-pdf 技术书籍下载",
+                "intro": "技术书籍下载"
+            }
+        ]
+    },
+    {
+        "categoryName": "学术研究",
+        "categoryIcon": "fas fa-graduation-cap",
+        "list": [
+            {
+                "link": "https://ac.scmor.com/",
+                "title": "谷歌学术",
+                "intro": "学术镜像 - 学术资源"
+            },
+            {
+                "link": "http://so.hiqq.com.cn/",
+                "title": "hiQQ 学术搜索",
+                "intro": "默认 google 学术搜索"
+            },
+            {
+                "link": "https://www.cnki.net/?authfail",
+                "title": "中国知网",
+                "intro": "中国知识基础设施工程"
+            },
+            {
+                "link": "http://www.cqvip.com/",
+                "title": "维普官方网站",
+                "intro": "专业学术资源检索"
+            },
+            {
+                "link": "https://xueshu.baidu.com/",
+                "title": "百度学术",
+                "intro": "保持学习的态度"
+            },
+            {
+                "link": "https://www.ixueshu.com/",
+                "title": "爱学术",
+                "intro": "参考文献资料"
+            },
+            {
+                "link": "https://www.cn-ki.net/",
+                "title": "iData知识检索",
+                "intro": "期刊外文博硕士"
+            },
+            {
+                "link": "https://www.allhistory.com/",
+                "title": "全历史",
+                "intro": "历史脉络全知"
+            },
+            {
+                "link": "http://www.guoxue123.com/index.htm",
+                "title": "国学",
+                "intro": "经史子集国学导航"
+            },
+            {
+                "link": "https://www.semanticscholar.org/",
+                "title": "semantic scholar",
+                "intro": "AI-Powered Research Tool - 人工智能驱动的研究工具"
+            },
+            {
+                "link": "https://www.cdstm.cn/",
+                "title": "中国数字科技馆",
+                "intro": "国家科技基础条件平台"
+            }
+        ]
+    },
+    {
+        "categoryName": "搜索",
+        "categoryIcon": "fab fa-searchengin",
+        "list" : [
+
+            {
+                "link": "https://www.51kim.com/",
+                "title": "KIM主页",
+                "intro": "主页从未如此惊艳"
+            },
+            {
+                "link": "https://www.91sotu.com/",
+                "title": "搜图导航",
+                "intro": "一款强大且智能的设计师导航"
+            },
+            {
+                "link": "https://zh.wikihow.com/%E9%A6%96%E9%A1%B5",
+                "title": "wikiHow",
+                "intro": "您可以编辑的指导手册"
+            },
+            {
+                "link": "https://www.jiumodiary.com//",
+                "title": "鸠摩搜索",
+                "intro": "文档搜索引擎"
+            },
+            {
+                "link": "https://mijisou.com/",
+                "title": "秘迹搜索",
+                "intro": "一个不追踪你的搜索引擎"
+            },
+            {
+                "link": "https://www.gobaidugle.com/",
+                "title": "谷百度歌",
+                "intro": "多搜多重对比聚合联合搜索引擎"
+            },
+            {
+                "link": "https://search.data4industry.com/",
+                "title": "工业快搜",
+                "intro": "多搜多重对比聚合联合搜索引擎"
+            },
+            {
+                "link": "https://so.pansoso.com/",
+                "title": "盘搜搜",
+                "intro": "好用的百度云搜索引擎 - 支持搜索百度云搜索、115网盘、360云盘、华为网盘、新浪微盘"
+            }
+        ]
+    },
+    {
+        "categoryName": "音视频",
+        "categoryIcon": "fas fa-film",
+        "list" : [
+            {
+                "link": "https://www.hifini.com/",
+                "title": "hifini 音乐磁场",
+                "intro": "免费音乐资源下载"
+            },
+            {
+                "link": "https://www.549.tv",
+                "title": "影视森林",
+                "intro": "影视站点集合"
+            },
+            {
+                "link": "http://www.pianku5.com/",
+                "title": "片库网",
+                "intro": "网罗全网最新电影电视剧在线观看"
+            },
+            {
+                "link": "https://www.mypianku.net/",
+                "title": "片库",
+                "intro": "全网高清影视聚合下载"
+            },
+            {
+                "link": "http://videos.yizhansou.com/",
+                "title": "一站搜",
+                "intro": "最好的美剧搜索网站"
+            },
+            {
+                "link": "https://www.cupfox.com/",
+                "title": "茶杯狐 Cupfox",
+                "intro": "中国最大的影视资源聚合搜索引擎，实时聚合全网优质影视资源，同时支持在线、下载和字幕。电影、电视剧、动漫、综艺应有尽有。"
+            },
+            {
+                "link": "http://dyxs15.com/",
+                "title": "电影先生",
+                "intro": "聚合全网高清影视在线观看、下载"
+            },
+            {
+                "link": "https://www.showxi.xyz/",
+                "title": "80影视-电影天堂",
+                "intro": "专业的高清电影在线观看和vip视频解析"
+            },
+            {
+                "link": "https://jubt.live/cn/index.html",
+                "title": "聚BT",
+                "intro": "聚合最优质的BT、磁力资源 | BT搜索 磁力搜索 云盘搜索 影视APP 在线影视 磁力影视 种子搜索"
+            },
+            {
+                "link": "http://www.youku6.com/",
+                "title": "游库6影院",
+                "intro": "游库网高清电影,游库网电视剧在线观看"
+            },
+            {
+                "link": "https://91mjw.com/",
+                "title": "91美剧网",
+                "intro": "看美剧更新"
+            }
+        ]
+    },
+    {
+        "categoryName": "视频处理",
+        "categoryIcon": "fas fa-download",
+        "list" : [
+            {
+                "link": "https://vimeo.online-downloader.com/",
+                "title": "Vimeo Video Downloader",
+                "intro": "视频免费在线转换和下载"
+            },
+            {
+                "link": "https://www.findyoutube.net/",
+                "title": "Youtube 视频和字幕在线下载",
+                "intro": "免费音视频(加字幕)下载"
+            },
+            {
+                "link": "https://zh.savefrom.net/8/",
+                "title": "Youtube 视频下载",
+                "intro": "免费 Youtube 视频下载器"
+            },
+            {
+                "link": "https://www.twdown.net/index.php",
+                "title": "Twitter Video Downloader",
+                "intro": "免费 Twitter 视频下载器"
+            },
+            {
+                "link": "https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo",
+                "title": "油猴 - Tampermonkey",
+                "intro": "用户脚本是小型计算机程序，可以更改页面的布局，添加或删除新功能和内容或自动执行操作"
+            },
+            {
+                "link": "https://greasyfork.org/zh-CN/scripts/369400-local-youtube-downloader",
+                "title": "本地 YouTube 下载器",
+                "intro": "不需要透过第三方的服务就能下载 YouTube 视频"
+            },
+            {
+                "link": "https://downsub.com/",
+                "title": "downsub 字幕下载",
+                "intro": "可以直接从Youtube, VIU, Viki, Vlive 等下载字幕"
+            },
+            {
+                "link": "https://mkvtoolnix.en.softonic.com/download",
+                "title": "MKVToolnix",
+                "intro": "混合视频与字幕，压缩和存储视频内容而不影响视频质量"
+            }
+        ]
+    },
+    {
+        "categoryName": "图片与设计",
+        "categoryIcon": "fas fa-images",
+        "list" : [
+            {
+                "link": "https://www.moage.cn/",
+                "title": "美寄词云",
+                "intro": "名片/贺卡/海报/社交插图/演示文稿/文字云在线生成器"
+            },
+            {
+                "link": "https://www.uupoop.com/",
+                "title": "稿定-在线 PS 处理工具",
+                "intro": "在线制作编辑图片 ps 精简版"
+            },
+            {
+                "link": "https://www.asqql.com/gif/",
+                "title": "动图基地工具",
+                "intro": "在线视频转 gif 动态图工具"
+            },
+            {
+                "link": "https://www.soogif.com/",
+                "title": "soogif 动图",
+                "intro": "免费的 gif 动态图片搜索引擎、在线制作压缩动图表情素材"
+            },
+            {
+                "link": "https://tinypng.com/",
+                "title": "TinyPNG",
+                "intro": "压缩PNG图像，同时保持透明度"
+            },
+            {
+                "link": "https://www.yasuotu.com/",
+                "title": "压缩图",
+                "intro": "在线图片压缩工具(jpg、png、gif)无损压缩50%"
+            },
+            {
+                "link": "https://squoosh.app/",
+                "title": "squoosh",
+                "intro": "压缩图片，可置于桌面"
+            },
+            {
+                "link": "https://www.remove.bg/zh",
+                "title": "图片背景消除",
+                "intro": "100% 全自动且免费"
+            },
+            {
+                "link": "https://ezgif.com/resize",
+                "title": "图片裁剪尺寸缩放",
+                "intro": "图片视频裁剪和效果处理"
+            },
+            {
+                "link": "https://huaban.com/",
+                "title": "花瓣",
+                "intro": "花瓣，陪你做生活的设计师"
+            },
+            {
+                "link": "https://www.zcool.com.cn/",
+                "title": "站酷",
+                "intro": "站酷设计"
+            },
+            {
+                "link": "https://www.ui.cn/",
+                "title": "UI 中国",
+                "intro": "UI 设计协作工具"
+            },
+            {
+                "link": "https://www.58pic.com/",
+                "title": "千图网",
+                "intro": "图片设计协作工具"
+            },
+            {
+                "link": "https://tutsplus.com/authors/jenny-le",
+                "title": "Jenny Le's Design",
+                "intro": "图片设计协作工具"
+            },
+            {
+                "link": "https://www.fotor.com.cn/",
+                "title": "图片编辑海报制作",
+                "intro": "图片海报设计协作工具"
+            },
+            {
+                "link": "https://color.adobe.com/zh/create/color-wheel/",
+                "title": "色盘配色",
+                "intro": "色盘调色"
+            },
+            {
+                "link": "https://www.soogif.com/",
+                "title": "Gif 动图一站式",
+                "intro": "SOOGIF，找动图做动图.gif"
+            },
+            {
+                "link": "https://lanhuapp.com/",
+                "title": "蓝湖",
+                "intro": "高效的产品设计协作平台"
+            }
+        ]
+    },
+    {
+        "categoryName": "其他",
+        "categoryIcon": "fas fa-stream",
+        "list" : [
+            {
+                "link": "https://cn.piliapp.com/generator/qr-code/",
+                "title": "二维码产生器",
+                "intro": "免费的在线二维码生成器(含 facebook、twitter等)"
+            },
+            {
+                "link": "https://cli.im/",
+                "title": "草料二维码",
+                "intro": "网址/文件/图片/音视频/微信/名单/表单等二维码生成"
+            },
+            {
+                "link": "https://sina.lt/",
+                "title": "新浪短网址",
+                "intro": "短网址生成 网址缩短服务"
+            },
+            {
+                "link": "https://www.alltoall.net/",
+                "title": "在线格式转换",
+                "intro": "PDF 转 WORD 以及更多免费的在线格式转换工具"
+            },
+            {
+                "link": "https://tools.pdf24.org/zh/",
+                "title": "PDF24 Tools",
+                "intro": "免费且易于使用的在线PDF工具"
+            },
+            {
+                "link": "https://icon.wuruihong.com/",
+                "title": "图标工厂",
+                "intro": "一键生成所有尺寸的应用图标/启动图"
+            },
+            {
+                "link": "https://freessl.cn/",
+                "title": "SSL 免费域名证书",
+                "intro": "一个提供免费HTTPS证书申请的网站"
+            },
+            {
+                "link": "https://ezgif.com",
+                "title": "在线 webp 转换",
+                "intro": "webp 及其他格式转换"
+            }
+        ]
+    }
+]
