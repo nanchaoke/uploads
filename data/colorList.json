@@ -95,6 +95,12 @@
                     },
                     {
                         "background": "#37C2BC"
+                    },
+                    {
+                        "background": "#aab0c6"
+                    },
+                    {
+                        "background": "#a9b9c9"
                     }
                 ]
             },
@@ -136,6 +142,11 @@
                     {
                         "color": "#cbcfd8",
                         "background": "#24292F"
+                    },
+                    {
+                        "color": "white",
+                        "background": "#aab0c6",
+                        "hoverBackground": "#a9b9c9"
                     }
                 ]
             }

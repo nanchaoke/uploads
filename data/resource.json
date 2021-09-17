@@ -248,11 +248,6 @@
         "categoryIcon": "fas fa-film",
         "list" : [
             {
-                "link": "https://www.hifini.com/",
-                "title": "hifini 音乐磁场",
-                "intro": "免费音乐资源下载"
-            },
-            {
                 "link": "https://www.549.tv",
                 "title": "影视森林",
                 "intro": "影视站点集合"
@@ -301,6 +296,16 @@
                 "link": "https://91mjw.com/",
                 "title": "91美剧网",
                 "intro": "看美剧更新"
+            },
+            {
+                "link": "https://www.hifini.com/",
+                "title": "hifini 音乐磁场",
+                "intro": "免费音乐资源下载"
+            },
+            {
+                "link": "https://www.xiaobaipan.com/",
+                "title": "小白盘",
+                "intro": "网盘搜索资源"
             }
         ]
     },
