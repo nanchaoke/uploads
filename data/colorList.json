@@ -147,6 +147,11 @@
                         "color": "white",
                         "background": "#aab0c6",
                         "hoverBackground": "#a9b9c9"
+                    },
+                    {
+                        "color": "white",
+                        "background": "#82B541",
+                        "hoverBackground": "#8FC050"
                     }
                 ]
             }
