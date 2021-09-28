@@ -240,6 +240,11 @@
                 "link": "https://so.pansoso.com/",
                 "title": "盘搜搜",
                 "intro": "好用的百度云搜索引擎 - 支持搜索百度云搜索、115网盘、360云盘、华为网盘、新浪微盘"
+            },
+            {
+                "link": "https://www.xiaobaipan.com/",
+                "title": "小白盘",
+                "intro": "网盘搜索资源"
             }
         ]
     },
@@ -293,9 +298,29 @@
                 "intro": "免费音乐资源下载"
             },
             {
-                "link": "https://www.xiaobaipan.com/",
-                "title": "小白盘",
-                "intro": "网盘搜索资源"
+                "link": "http://www.reju.tv/",
+                "title": "热剧网",
+                "intro": "新旧剧都有，速度也不错"
+            },
+            {
+                "link": "https://www.meiju2.com/",
+                "title": "爱美剧",
+                "intro": "热播美剧、最新美剧、经典美剧、动漫卡通一应俱全"
+            },
+            {
+                "link": "https://www.meiju2.com/",
+                "title": "爱美剧",
+                "intro": "热播美剧、最新美剧、经典美剧、动漫卡通一应俱全"
+            },
+            {
+                "link": "ddrk.me",
+                "title": "低端影视",
+                "intro": "多国剧更新，还有国内节点与海外节点，速度快"
+            },
+            {
+                "link": "http://www.kuhuiv.com/",
+                "title": "酷绘视频",
+                "intro": "包含国内外热剧，综艺动漫纪录片微电影娱乐和直播、榜单，线路多，速度一般"
             }
         ]
     },
@@ -484,6 +509,11 @@
                 "link": "https://ezgif.com",
                 "title": "在线 webp 转换",
                 "intro": "webp 及其他格式转换"
+            },
+            {
+                "link": "https://www.ihezu.cn/?sid=A9jegu",
+                "title": "奈飞小铺",
+                "intro": "奈飞/油管(Netflix/Youtube)会员稳定合租，通用折扣优惠码：QWER"
             }
         ]
     }
