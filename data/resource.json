@@ -308,7 +308,7 @@
                 "intro": "热播美剧、最新美剧、经典美剧、动漫卡通一应俱全"
             },
             {
-                "link": "ddrk.me",
+                "link": "https://ddrk.me/",
                 "title": "低端影视",
                 "intro": "多国剧更新，还有国内节点与海外节点，速度快"
             },
@@ -468,6 +468,26 @@
                 "link": "https://lanhuapp.com/",
                 "title": "蓝湖",
                 "intro": "高效的产品设计协作平台"
+            },
+            {
+                "link": "https://personas.draftbit.com/",
+                "title": "Draftbit",
+                "intro": "卡通头像免费生成下载"
+            },
+            {
+                "link": "https://getavataaars.com/",
+                "title": "Avataaars Generator",
+                "intro": "卡通头像免费生成下载,可自定义选项和选格式"
+            },
+            {
+                "link": "https://uifaces.co/",
+                "title": "UI Faces",
+                "intro": "AI面像生成，可自定义选项"
+            },
+            {
+                "link": "https://generated.photos/",
+                "title": "Generated Photos",
+                "intro": "AI生成的真人照片,可查找模型图像"
             }
         ]
     },
