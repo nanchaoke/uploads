@@ -336,6 +336,16 @@
                 "link": "https://app.movie/",
                 "title": "APP影院",
                 "intro": "有老剧新剧美剧动漫综艺，速度还不错"
+            },
+            {
+                "link": "https://tvshan.com/",
+                "title": "电视山",
+                "intro": "免会员观看最新|高清电影|热播电视剧|动漫|综艺"
+            },
+            {
+                "link": "https://www.tiantk.net/",
+                "title": "天天看电影",
+                "intro": "免费电影下载|百度云电影资源|迅雷电影下载"
             }
         ]
     },
