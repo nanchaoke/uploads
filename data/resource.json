@@ -9,9 +9,14 @@
                 "intro": "常用技术文档集合"
             },
             {
-                "link": "https://www.layui.com",
+                "link": "http://www.ilayuis.com/",
                 "title": "Layui",
                 "intro": "精美的前端 UI 框架"
+            },
+            {
+                "link": "http://www.ilayuis.com/doc/modules/layer.html",
+                "title": "Layer",
+                "intro": "弹层组件文档-layui.layer"
             },
             {
                 "link": "https://element.eleme.cn/#/zh-CN/component/installation",
@@ -132,6 +137,26 @@
                 "link": "https://itbook.download/",
                 "title": "itbook-pdf 技术书籍下载",
                 "intro": "技术书籍下载"
+            },
+            {
+                "link": "http://www.h-ui.net/websafecolors.shtml",
+                "title": "216 Web安全色",
+                "intro": "本表中列出的是WEB设计、开发中常用安全色"
+            },
+            {
+                "link": "http://www.h-ui.net/bug.shtml",
+                "title": "兼容性及经验汇总",
+                "intro": "常见的Bug兼容性解决方案|前端经验汇总"
+            },
+            {
+                "link": "http://www.h-ui.net/bg/index.shtml",
+                "title": "网站常用背景素材",
+                "intro": "背景图片素材"
+            },
+            {
+                "link": "",
+                "title": "",
+                "intro": ""
             }
         ]
     },
